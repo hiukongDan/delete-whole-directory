@@ -1,8 +1,12 @@
 #!/usr/bin/python
-"""
-deletedir.py: This script is used for deleting a directory 
-and all the subdirectories and files contained in it.
-"""
+#
+# Fil: deletedir.py
+# Description:
+#   deletedir.py: This script is used for deleting a directory 
+#   and all the subdirectories and files contained in it.
+# Author: Hiukong Dan
+# Version: 1.0
+# Licenses: MIT
 
 import sys as _sys
 import os  as _os
